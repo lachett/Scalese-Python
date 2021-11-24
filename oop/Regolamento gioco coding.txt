@@ -1,0 +1,8 @@
+Il gioco si struttura in questo modo:
+È un gioco a tempo costituito da diversi livelli di difficoltà, che aumenta con l’avanzare dei livelli.
+Ogni livello dura 1:30 minuti.
+1 livello: Trova le parole che hanno al loro interno 2 vocali
+2 livello: Trova le parole che rientrano nella categoria “scuola”
+3 livello: Trova le parole composte da 5 lettere
+Visto che ogni livello ha una difficoltà diversa, le parole trovate avranno punteggi diversi, inoltre per ogni livello ci saranno delle parole bonus che hanno un punteggio raddoppiato.
+Vince il gioco chi allo scadere del tempo ha totalizzato più punti. 
